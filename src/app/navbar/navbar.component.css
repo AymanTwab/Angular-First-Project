@@ -1,0 +1,22 @@
+.copyright {
+  background-color: #1A252F !important;
+}
+
+.navbar-sticky {
+  position: fixed;
+  background-color: #2C3E50;
+  padding: 24px 0;
+  z-index: 99;
+  width: 100%;
+  transition: .5s;
+}
+
+.navbarOnScroll {
+  padding: 8px 0;
+}
+
+.active-link {
+  background-color: #1abc9ce6;
+  border-radius: 5px;
+  color: #fff;
+}

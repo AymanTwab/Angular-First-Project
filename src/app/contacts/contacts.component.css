@@ -1,0 +1,33 @@
+.btn-green {
+  background-color: #1ABC9C;
+  color: #fff;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  padding: 60px;
+}
+
+h2 {
+  font-size: 34px;
+  margin-bottom: 16px;
+}
+
+input {
+  box-shadow: none !important;
+  border: 0 !important;
+  border-bottom: 1px solid #00000015 !important;
+  padding: 16px 12px;
+  z-index: 5;
+  background-color: #fff;
+}
+
+label {
+  color: #1ABC9C;
+}
+
+.labelTop {
+  transition: 0.3s;
+  top: 40px;
+}

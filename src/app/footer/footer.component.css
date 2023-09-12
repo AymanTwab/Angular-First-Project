@@ -1,0 +1,14 @@
+.copyright {
+  background-color: #1A252F !important;
+  color: #fff;
+}
+
+.footer {
+  background-color: #2C3E50;
+  padding: 100px 0;
+}
+
+.social svg {
+  font-size: 27px;
+  padding: 10px 20px;
+}
